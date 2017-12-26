@@ -1,7 +1,6 @@
 # Contributing
 
 1. Fork it and clone it
-1. Checkout the `develop` branch
 1. `npm install`
 1. Create your feature branch (`git checkout -b my-new-feature`)
 1. Add your feature code and supporting unit tests
